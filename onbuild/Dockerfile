@@ -1,4 +1,4 @@
-FROM gongo/docker-emacs
+FROM gongo/emacs
 
 MAINTAINER Wataru MIYAGUNI <gonngo@gmail.com>
 
