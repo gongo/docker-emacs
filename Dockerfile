@@ -8,7 +8,7 @@ MAINTAINER Wataru MIYAGUNI <gonngo@gmail.com>
 #   https://pkgs.alpinelinux.org/package/edge/testing/x86_64/emacs
 #
 RUN apk add --no-cache \
-            --repository http://dl-3.alpinelinux.org/alpine/edge/testing/ \
+            --repository http://dl-3.alpinelinux.org/alpine/edge/community/ \
             emacs
 
 #
